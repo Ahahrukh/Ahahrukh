@@ -12,7 +12,7 @@
 <h3 align="center" margin-top="30">Connect with me:</h3>
 <div align="center">
   <a target=”_blank”  href="https://linkedin.com/in/shahrukh-8a3217193" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target=”_blank” href="rose.sa818@gmail.com"><img src="https://img.shields.io/badge/rose.sa818@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target=”_blank” href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/rose.sa818@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a target=”_blank” href="https://latest-shahrukh-portfolio-fsd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=web&logoColor=white"/></a>
   </div>
 <!-- <p align="center">
