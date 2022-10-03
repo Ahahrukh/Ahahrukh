@@ -58,6 +58,6 @@
   <p><img align="left" width="1000" height="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahahrukh&show_icons=true&locale=en&layout=compact" alt="ahahrukh" /></p>
   </div>
 
-<div><p>&nbsp;<img align="center" width="1000" height="400" src="https://github-readme-stats.vercel.app/api?username=ahahrukh&show_icons=true&locale=en" alt="ahahrukh" /></p></div>
+<div><p>&nbsp;<img align="center" width="1001" height="400" src="https://github-readme-stats.vercel.app/api?username=ahahrukh&show_icons=true&locale=en" alt="ahahrukh" /></p></div>
 
 <div><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahahrukh&" alt="ahahrukh" width="1000" height="400" /></p></div>
