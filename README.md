@@ -11,8 +11,9 @@
 
 <h3 align="center" margin-top="30">Connect with me:</h3>
 <div align="center">
-  <a target=”_blank”  href="linkedin.com/in/shahrukh-ali-8a3217193" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target=”_blank”  href="linkedin.com/in/shahrukh-8a3217193" ><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target=”_blank” href="rose.sa818@gmail.com"><img src="https://img.shields.io/badge/rose.sa818@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target=”_blank” href="https://latest-shahrukh-portfolio-fsd.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </div>
 <!-- <p align="center">
 <a href="https://codepen.io/@shahrukh-ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shahrukh-ali" height="30" width="40" /></a>
